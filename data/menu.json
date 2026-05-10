@@ -1,0 +1,42 @@
+[
+  {"name": "Veg Biryani", "price": 120, "type": "veg", "protein": "none", "rating": 4.1, "restaurant": "A2B Veg Restaurant"},
+  {"name": "Veg Biryani", "price": 200, "type": "veg", "protein": "none", "rating": 4.3, "restaurant": "Sagar Delight"},
+  {"name": "Veg Biryani", "price": 150, "type": "veg", "protein": "none", "rating": 4.5, "restaurant": "Sri Udupi Palace"},
+
+  {"name": "Chicken Biryani", "price": 160, "type": "non-veg", "protein": "chicken", "rating": 4.4, "restaurant": "Meghana Foods"},
+  {"name": "Chicken Biryani", "price": 180, "type": "non-veg", "protein": "chicken", "rating": 4.6, "restaurant": "Empire Restaurant"},
+  {"name": "Chicken Biryani", "price": 250, "type": "non-veg", "protein": "chicken", "rating": 4.3, "restaurant": "Donne Biryani House"},
+
+  {"name": "Mutton Biryani", "price": 250, "type": "non-veg", "protein": "mutton", "rating": 4.6, "restaurant": "Empire Restaurant"},
+  {"name": "Mutton Biryani", "price": 180, "type": "non-veg", "protein": "mutton", "rating": 4.8, "restaurant": "Hyderabadi Spice Hub"},
+  {"name": "Mutton Biryani", "price": 300, "type": "non-veg", "protein": "mutton", "rating": 4.7, "restaurant": "Charminar Kitchen"},
+
+  {"name": "Egg Biryani", "price": 130, "type": "non-veg", "protein": "egg", "rating": 4.0, "restaurant": "Biryani Zone"},
+  {"name": "Egg Biryani", "price": 150, "type": "non-veg", "protein": "egg", "rating": 4.2, "restaurant": "Food Street"},
+  {"name": "Egg Biryani", "price": 160, "type": "non-veg", "protein": "egg", "rating": 4.3, "restaurant": "Andhra Meals"},
+
+  {"name": "Prawn Biryani", "price": 260, "type": "non-veg", "protein": "prawn", "rating": 4.5, "restaurant": "Coastal Curry"},
+  {"name": "Prawn Biryani", "price": 300, "type": "non-veg", "protein": "prawn", "rating": 4.7, "restaurant": "Sea Spice"},
+  {"name": "Prawn Biryani", "price": 320, "type": "non-veg", "protein": "prawn", "rating": 4.6, "restaurant": "Mangrove Kitchen"},
+
+  {"name": "Fried Rice", "price": 90, "type": "veg", "protein": "none", "rating": 4.0, "restaurant": "Street Wok"},
+  {"name": "Veg Fried Rice", "price": 100, "type": "veg", "protein": "none", "rating": 4.2, "restaurant": "Chinese Corner"},
+  {"name": "Egg Fried Rice", "price": 110, "type": "non-veg", "protein": "egg", "rating": 4.3, "restaurant": "Wok Express"},
+  {"name": "Chicken Fried Rice", "price": 140, "type": "non-veg", "protein": "chicken", "rating": 4.5, "restaurant": "Wok Express"},
+
+  {"name": "Butter Chicken", "price": 220, "type": "non-veg", "protein": "chicken", "rating": 4.7, "restaurant": "Punjab Grill"},
+  {"name": "Butter Chicken", "price": 250, "type": "non-veg", "protein": "chicken", "rating": 4.6, "restaurant": "Punjabi Dhaba"},
+  {"name": "Butter Chicken", "price": 240, "type": "non-veg", "protein": "chicken", "rating": 4.5, "restaurant": "Delhi Tadka"},
+
+  {"name": "Paneer Butter Masala", "price": 160, "type": "veg", "protein": "paneer", "rating": 4.4, "restaurant": "A2B Veg Restaurant"},
+  {"name": "Paneer Butter Masala", "price": 180, "type": "veg", "protein": "paneer", "rating": 4.6, "restaurant": "Udupi Grand"},
+  {"name": "Paneer Butter Masala", "price": 170, "type": "veg", "protein": "paneer", "rating": 4.3, "restaurant": "South Spice"},
+
+  {"name": "Masala Dosa", "price": 60, "type": "veg", "protein": "none", "rating": 4.5, "restaurant": "Udupi Palace"},
+  {"name": "Masala Dosa", "price": 70, "type": "veg", "protein": "none", "rating": 4.6, "restaurant": "CTR Bangalore"},
+  {"name": "Masala Dosa", "price": 80, "type": "veg", "protein": "none", "rating": 4.7, "restaurant": "MTR Foods"},
+
+  {"name": "Idli Vada", "price": 50, "type": "veg", "protein": "none", "rating": 4.3, "restaurant": "A2B Veg Restaurant"},
+  {"name": "Idli Vada", "price": 55, "type": "veg", "protein": "none", "rating": 4.4, "restaurant": "Sri Udupi"},
+  {"name": "Idli Vada", "price": 60, "type": "veg", "protein": "none", "rating": 4.2, "restaurant": "Sagar Ratna"}
+]
