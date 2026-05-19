@@ -9,3 +9,5 @@ fastapi
 uvicorn
 python-dotenv
 langchain-core==0.2.38
+rapidfuzz
+rank_bm25
